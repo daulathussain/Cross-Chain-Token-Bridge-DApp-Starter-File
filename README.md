@@ -6,7 +6,7 @@
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/-IlnisTAX-8?si=4tvSxvyRpcrmuJZS)
 
 Build & Deploy Bridge Swap | Cross-Chain Token Bridge DApp Using Next.js, Thirdweb & Blockchain | DeFi Project
 
